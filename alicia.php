@@ -1,10 +1,12 @@
 <?php /*
 Plugin Name: Alicia
 Description: Just Superwoman Keys for your security.
-Author: BoiteAWeb, SecuPress
-Author URI: http://boiteaweb.fr
-Version: 2014.02.19
-Built: 1458209788 */
+Author: David Degliame
+Author URI: http://degliame.net
+Version: 2016.03.17 
+
+Source from : BoiteAWeb, SecuPress
+*/
 
 defined('ABSPATH') or die('Cheatin\' uh?'); 
 
